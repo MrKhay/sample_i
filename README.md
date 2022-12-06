@@ -1,12 +1,12 @@
-# sample_i
+# Chigisoft Task
 
-## Sample application.
+## Internet Access required.
 
-## Password: notchecked
+Password: notchecked
 
-## Username: kminchelle
+Username: kminchelle
 
-## email: kminchelle@qq.com
+email: kminchelle@qq.com
 
 
 
